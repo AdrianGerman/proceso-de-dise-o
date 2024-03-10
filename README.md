@@ -15,3 +15,8 @@ Flujo de trabajo de un proyecto web desde la parte técnica.
 
 ![](./2-user-flows/1-site-map.png)
 ![](./2-user-flows/2-user-flow-pedido.png)
+
+3. Diseño.
+
+![](./3-wireframes/4-wireframe-desktop.jpg)
+![](./3-wireframes/4-wireframe-mobile.jpg)
